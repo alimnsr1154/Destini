@@ -2,7 +2,7 @@
 
 A Destini Flutter project.
 
-## Getting Started
+## Description
 
 I created a story-based destini app where the new screens will be based on your previous answers.you will have one options from the two options on every screen. 
 
