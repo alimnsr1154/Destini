@@ -1,16 +1,14 @@
-# destini
+# Destini 🤔
 
-A new Flutter project.
+A Destini Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I created a story-based destini app where the new screens will be based on your previous answers.you will have one options from the two options on every screen. 
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center" width="50">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="
+https://github.com/londonappbrewery/Images/raw/master/Destini.gif" alt="Welcome!" width="250" height= "500" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
