@@ -8,7 +8,6 @@ I created a story-based destini app where the new screens will be based on your 
 
 <div align="center" width="50">
 
-<img src="
-https://github.com/londonappbrewery/Images/raw/master/Destini.gif" alt="Welcome!" width="250" height= "500" />
+<img src="https://github.com/londonappbrewery/Images/raw/master/Destini.gif" alt="Welcome!" width="250" height= "500" />
 
 </div>
